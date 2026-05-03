@@ -1,5 +1,7 @@
 # Single-Page CV – Sanju Rathee
 
+**Project URL:** [https://github.com/22948sr/Single-Page-CV/tree/main](https://github.com/22948sr/Single-Page-CV/tree/main)
+
 A structured, single-page CV (Curriculum Vitae) built using only HTML. The focus of this project is on semantic markup, SEO best practices, and Open Graph tags. Styling will be addressed in a future project.
 
 ---
